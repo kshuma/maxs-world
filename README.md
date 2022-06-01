@@ -1,2 +1,4 @@
-# maxs-world
-Max's World: The Game
+# Max's World: The Game
+
+## Objective
+
