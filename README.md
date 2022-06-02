@@ -6,7 +6,7 @@
   - Share Max's love of animals and "Pokemon"-style games.
   - Create game play that is simply and retro-cool (ok, Max's dad wants to do the retro-thing)
 
-- Accumulate treasure (gold coins) that let you buy things from the in-game store.  Such as gaming upgrades (new outfits, new emotes, etc.).
+- Accumulate treasure (gold coins) that let you buy things from the in-game store.  Such as gaming upgrades (animal powers, new outfits, new emotes, etc.).
 
 - Player's can spend their treasure on animal power juiceboxes that they can put in their backpack.  Then when necessary, drink the juice to gain a power for a short-period of time; these powers include:
   - Ability to take on a birds wings and fly over danger
