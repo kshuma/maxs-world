@@ -12,7 +12,7 @@
   - Ability to take on a birds wings and fly over danger
   - Ability to take on an aligators skin and be invisible to danger  
 
-- Instead of the typical weapons, Max's World will have "phasers" that shoot a beam of light that causes anyone it touches to do something silly for 3a short-period of time
+- Instead of the typical weapons, Max's World will have "phasers" that shoot a beam of light that causes anyone it touches to do something silly for a short-period of time
   - Player is encapsulated in a bubble and floats away
   - Player is shrunk to one inch tall
   - Player is given rubber bones and flops around uncontrollably 
